@@ -1,1 +1,3 @@
+*.ipynb
 server
+__pycache__
